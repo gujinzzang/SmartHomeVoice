@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SmartHome</string>
+    <string name="speech_prompt">연결완료</string>
+    <string name="speech_not_supported">연결실패</string>
+</resources>
